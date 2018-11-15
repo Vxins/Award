@@ -1,0 +1,15 @@
+body {
+    text-align:center;
+    background:lightpink;
+}
+h1 {
+    color:white;
+    font-family: 'Allerta Stencil', sans-serif;
+}
+h2 {
+    color:red;
+    font-family: 'Niramit', sans-serif;
+}
+h3 {
+    font-family: 'Monsterrat', sans-serif;
+}
